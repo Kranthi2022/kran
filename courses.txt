@@ -1,0 +1,3 @@
+Welcome to Kranthi Technologies
+Python
+Java
