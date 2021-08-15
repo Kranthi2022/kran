@@ -2,9 +2,15 @@ Welcome to Kranthi Technologies
 Python
 Java
 
+
 Manual testing
 Automation testing
 
 
 
 Changes Done
+
+
+
+Done
+
